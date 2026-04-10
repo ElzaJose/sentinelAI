@@ -1,0 +1,6 @@
+error_message,root_cause
+TimeoutError,device_issue
+AssertionError,script_bug
+ValueError,script_bug
+DeviceNotResponding,device_issue
+FlakyTestException,flaky_test

@@ -1,0 +1,18 @@
+sentinelai/
+│
+├── core/
+│   ├── event.py
+│   ├── event_bus.py
+│   ├── orchestrator.py
+│   ├── state.py
+│
+├── agents/
+│   ├── base.py
+│   └── observer.py
+│
+├── plugins/
+│   └── signals/
+│       └── test_adapter.py
+│
+├── main.py
+└── config.yaml
